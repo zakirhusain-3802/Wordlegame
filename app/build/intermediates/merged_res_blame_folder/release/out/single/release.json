@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_btn3.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/btn3.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_baseline_refresh_24.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/baseline_refresh_24.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_start_bg.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/start_bg.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_restart.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/restart.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_baseline_question_mark_24.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/baseline_question_mark_24.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-anydpi_ic_action_name.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-anydpi/ic_action_name.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_icon1.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/icon1.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_icons.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/icons.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_btn.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/btn.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/layout_activity_rules.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/layout/activity_rules.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_wordle_home.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/wordle_home.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_splashscreen.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_wordel_title2.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/wordel_title2.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/layout_nointernet.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/layout/nointernet.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_baseline_bar_chart_24.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_st.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/st.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_one_1.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/one_1.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_play1.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/play1.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_wordle_title.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/wordle_title.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_three_1.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/three_1.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/layout_rule.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/layout/rule.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_rule.jpeg.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/rule.jpeg"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_que.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/que.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_baseline_keyboard_backspace_24.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/baseline_keyboard_backspace_24.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_title.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/title.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_button2.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/button2.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_back.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/back.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_play.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/play.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_four_1.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/four_1.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable_icns.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable/icns.png"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.yasma.wordriddle.app-merged_res-35:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.yasma.wordriddle.app-main-36:/drawable-xxhdpi/ic_action_name.png"
+    }
+]

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background"> #374354</color>
+    <color name="bg">#364354</color>
+    <color name="black">#FF000000</color>
+    <color name="correct">#6AAA64</color>
+    <color name="enter">#F37B89</color>
+    <color name="key">#80CCB5</color>
+    <color name="partial">#F9B033</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="wrong">#F37B89</color>
+    <string name="app_name">Word Riddle</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="Theme.WordRiddle" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">#364354</item>
+        <item name="colorPrimaryVariant">#364354</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">#364354</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="splashscreen" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/splashscreen</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>

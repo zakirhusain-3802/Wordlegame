@@ -1,6 +1,10 @@
 R_DEF: Internal format may change without notice
 local
+color background
+color bg
 color black
+color enter
+color key
 color purple_200
 color purple_500
 color purple_700
@@ -16,6 +20,8 @@ drawable baseline_refresh_24
 drawable btn
 drawable btn3
 drawable button2
+drawable delete
+drawable enter_key
 drawable four_1
 drawable ic_action_name
 drawable ic_launcher_background
@@ -23,6 +29,7 @@ drawable ic_launcher_foreground
 drawable icns
 drawable icon1
 drawable icons
+drawable key_button
 drawable one_1
 drawable play
 drawable play1
@@ -33,6 +40,7 @@ drawable splashscreen
 drawable st
 drawable start_bg
 drawable three_1
+drawable tile
 drawable title
 drawable wordel_title2
 drawable wordle_home
@@ -43,11 +51,14 @@ id button2
 id button3
 id button4
 id button5
+id gameKeyBoard
+id gameTile
 id imageView
 id imageView3
 id imageView4
 id imageView5
 id imageView6
+id main
 id stats
 id textView
 id textView2
@@ -57,7 +68,9 @@ id textView5
 id textView6
 id textView7
 id web
+layout activity_game
 layout activity_main
+layout activity_main2
 layout activity_rules
 layout nointernet
 layout rule

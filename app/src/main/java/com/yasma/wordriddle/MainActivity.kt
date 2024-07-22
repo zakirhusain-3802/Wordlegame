@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
 
      InterstitialAd.load(this,"ca-app-pub-6065082492952635/8199782004", adRequest, object : InterstitialAdLoadCallback() {
          override fun onAdFailedToLoad(adError: LoadAdError) {
-             Log.d(TAG, adError?.toString())
+             Log.d(TAG, "$adError")
              mInterstitialAd = null
          }
 

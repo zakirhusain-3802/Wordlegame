@@ -8,4 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bg">#364354</color>
+
+    <color name="background"> #374354</color>
+    <color name="key">#80CCB5</color>
+    <color name="enter">#F37B89</color>
+    <color name="correct">#6AAA64</color>
+    <color name="partial">#F9B033</color>
+    <color name="wrong">#F37B89</color>
+
 </resources>

@@ -6,6 +6,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad112b05fcdd3a678c9ffa0797dc2d48/transformed/core-1.6.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.6.1/373d480f7ae91a32ac4ee1583709af21f319c951/core-1.6.1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

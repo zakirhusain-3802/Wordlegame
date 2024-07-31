@@ -5,7 +5,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/edd13a4a5411b87374002cc81a15d666/transformed/play-services-ads-lite-23.2.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/edd13a4a5411b87374002cc81a15d666/transformed/play-services-ads-lite-23.2.0/jars/classes.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-lite/23.2.0/2a4b83d829c4944cec1f02c1d851e77322fbf32c/play-services-ads-lite-23.2.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES />
   </library>
 </component>

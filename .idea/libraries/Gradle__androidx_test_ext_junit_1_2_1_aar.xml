@@ -5,6 +5,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d49c24e98d565e053b02249a5b4b9127/transformed/junit-1.2.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.ext/junit/1.2.1/f170b63147430a6b8074a09070d1759edd0237b6/junit-1.2.1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

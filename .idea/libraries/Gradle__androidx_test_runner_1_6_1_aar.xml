@@ -5,6 +5,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/916837bb214fe40b00b3319522c002dd/transformed/runner-1.6.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test/runner/1.6.1/94d2c587aee44dd1fb38b5112f21623138224ba7/runner-1.6.1-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

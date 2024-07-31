@@ -6,7 +6,7 @@ plugins {
 android {
     compileSdk 34
     defaultConfig {
-        applicationId "com.yasma.wordriddle"
+        applicationId "com.yasma.wordsriddles"
         minSdk 24
         targetSdk 34
         versionCode 3
@@ -28,7 +28,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
-    namespace 'com.yasma.wordriddle'
+    namespace 'com.yasma.wordsriddles'
 }
 
 dependencies {

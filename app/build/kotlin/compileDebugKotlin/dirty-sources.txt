@@ -1,5 +1,0 @@
-P:\MY_APPS\WordRiddle\app\src\main\java\com\yasma\wordriddle\Utils\Constant.kt
-P:\MY_APPS\WordRiddle\app\src\main\java\com\yasma\wordriddle\MainActivity.kt
-P:\MY_APPS\WordRiddle\app\src\main\java\com\yasma\wordriddle\Rules.kt
-P:\MY_APPS\WordRiddle\app\src\main\java\com\yasma\wordriddle\MainActivity2.kt
-P:\MY_APPS\WordRiddle\app\src\main\java\com\yasma\wordriddle\Game.kt

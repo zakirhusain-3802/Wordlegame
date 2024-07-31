@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yasma.wordriddle"
+    package="com.yasma.wordsriddles"
     android:versionCode="3"
     android:versionName="2.5" >
 
@@ -36,10 +36,10 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <permission
-        android:name="com.yasma.wordriddle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.yasma.wordsriddles.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.yasma.wordriddle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.yasma.wordsriddles.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -55,7 +55,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.WordRiddle" >
         <activity
-            android:name="com.yasma.wordriddle.Game"
+            android:name="com.yasma.wordsriddles.Game"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -64,14 +64,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.yasma.wordriddle.MainActivity2"
+            android:name="com.yasma.wordsriddles.MainActivity2"
             android:exported="false" />
         <activity
-            android:name="com.yasma.wordriddle.Rules"
+            android:name="com.yasma.wordsriddles.Rules"
             android:exported="false"
-            android:parentActivityName="com.yasma.wordriddle.MainActivity" />
+            android:parentActivityName="com.yasma.wordsriddles.MainActivity" />
         <activity
-            android:name="com.yasma.wordriddle.MainActivity"
+            android:name="com.yasma.wordsriddles.MainActivity"
             android:exported="true" >
 
             <!-- <intent-filter> -->
@@ -97,7 +97,7 @@
 
         <provider
             android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-            android:authorities="com.yasma.wordriddle.mobileadsinitprovider"
+            android:authorities="com.yasma.wordsriddles.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -133,7 +133,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.yasma.wordriddle.androidx-startup"
+            android:authorities="com.yasma.wordsriddles.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.yasma.wordriddle.app-mergeDebugResources-43:/values-ca/values-ca.xml",
+            "outputFile": "com.yasma.wordsriddles.app-mergeDebugResources-43:/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\07e0c509c8bd08dc1c4e096452083130\\transformed\\play-services-ads-23.2.0\\res\\values-ca\\values.xml",

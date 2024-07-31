@@ -118,31 +118,37 @@
 
 
             <ImageButton
+                android:id="@+id/rules"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:background="@color/background"
                 android:src="@drawable/baseline_question_mark_24"/>
-            <ImageButton
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:background="@color/background"
-                android:src="@drawable/baseline_refresh_24"/>
             <View
                 android:layout_width="0dp"
                 android:layout_height="1dp"
                 android:layout_weight="1"/>
-
             <ImageButton
+                android:id="@+id/restart"
                 android:layout_width="48dp"
                 android:layout_height="48dp"
                 android:background="@color/background"
-                android:src="@drawable/verify"/>
+                android:src="@drawable/baseline_refresh_24"/>
+<!--            <View-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="1dp"-->
+<!--                android:layout_weight="1"/>-->
 
-            <ImageButton
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:background="@color/background"
-                android:src="@drawable/baseline_bar_chart_24"/>
+<!--            <ImageButton-->
+<!--                android:layout_width="48dp"-->
+<!--                android:layout_height="48dp"-->
+<!--                android:background="@color/background"-->
+<!--                android:src="@drawable/verify"/>-->
+
+<!--            <ImageButton-->
+<!--                android:layout_width="48dp"-->
+<!--                android:layout_height="48dp"-->
+<!--                android:background="@color/background"-->
+<!--                android:src="@drawable/baseline_bar_chart_24"/>-->
         </LinearLayout>
 
     <LinearLayout

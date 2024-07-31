@@ -24,6 +24,10 @@ class WordleGame(private val context: Context) {
       targetWord=randomWord.toUpperCase()
       println("Word : $targetWord  lents ${targetWord.length}")
   }
+
+    fun getTargetWord(): String {
+        return targetWord
+    }
     fun deleteLetter() {
         if (currentCol > 0) {
             currentCol--
@@ -101,6 +105,7 @@ private fun checkWordAndUpdateColors():Boolean {
             currentWord[i] == targetWord[i] -> {
                 updateTileBackground(currentRow, i, R.drawable.tile_correct)
                 updateTileColorCorrect(i,R.drawable.title_guess_coorect,currentWord[i].toString())
+                updateKeyTile(currentRow,i,currentWord[i].toString(),R.drawable.key_correct)
                 letterCounts[currentWord[i]] = letterCounts[currentWord[i]]!! - 1
             }
             else -> allCorrect=false
@@ -114,9 +119,11 @@ private fun checkWordAndUpdateColors():Boolean {
             currentWord[i] == targetWord[i] -> {} // Already handled
             currentWord[i] in targetWord && letterCounts[currentWord[i]]!! > 0 -> {
                 updateTileBackground(currentRow, i, R.drawable.tile_partial)
+                updateKeyTile(currentRow,i,currentWord[i].toString(),R.drawable.key_partial)
                 letterCounts[currentWord[i]] = letterCounts[currentWord[i]]!! - 1
             }
-            else -> updateTileBackground(currentRow, i, R.drawable.tile_wrong)
+            else -> {updateTileBackground(currentRow, i, R.drawable.tile_wrong)
+            updateKeyTile(currentRow,i,currentWord[i].toString(),R.drawable.key_wrong)}
         }
     }
     return false
@@ -133,11 +140,19 @@ private fun checkWordAndUpdateColors():Boolean {
         val tileId = context.resources.getIdentifier("tile_${row}_${col}", "id", context.packageName)
         val tileView = (context as Activity).findViewById<TextView>(tileId)
         tileView.text = letter
+
+    }
+    private fun updateKeyTile(row: Int, col: Int, letter: String,drawableResId: Int) {
+
+        val tileIdKey = context.resources.getIdentifier("key_${letter}", "id", context.packageName)
+        val tileViewKey = (context as Activity).findViewById<TextView>(tileIdKey)
+        tileViewKey.setBackgroundResource(drawableResId)
     }
     private fun updateTileBackground(row: Int, col: Int, drawableResId: Int) {
         val tileId = context.resources.getIdentifier("tile_${row}_${col}", "id", context.packageName)
         val tileView = (context as Activity).findViewById<TextView>(tileId)
         tileView.setBackgroundResource(drawableResId)
+
 
     }
 

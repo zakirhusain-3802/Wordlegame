@@ -22,6 +22,7 @@ drawable baseline_question_mark_24
 drawable baseline_refresh_24
 drawable btn
 drawable btn3
+drawable bulb__1_
 drawable button2
 drawable delete
 drawable enter_key
@@ -34,6 +35,9 @@ drawable icns
 drawable icon1
 drawable icons
 drawable key_button
+drawable key_correct
+drawable key_partial
+drawable key_wrong
 drawable one_1
 drawable play
 drawable play1
@@ -51,11 +55,13 @@ drawable tile_guess
 drawable tile_partial
 drawable tile_wrong
 drawable title
+drawable title_guess_coorect
 drawable verify
 drawable wordel_title2
 drawable wordle_home
 drawable wordle_title
 id adView
+id backButton
 id button
 id button2
 id button3
@@ -97,6 +103,9 @@ id key_X
 id key_Y
 id key_Z
 id main
+id match_parent
+id restart
+id rules
 id stats
 id textView
 id textView2

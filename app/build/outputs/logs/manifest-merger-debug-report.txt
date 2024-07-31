@@ -170,7 +170,7 @@ MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Admin\.gradle\caches\tra
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:17:9-48
 	android:dataExtractionRules
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:11:9-65
-activity#com.yasma.wordriddle.Game
+activity#com.yasma.wordsriddles.Game
 ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:exported
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:21:13-36
@@ -186,13 +186,13 @@ category#android.intent.category.LAUNCHER
 ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.yasma.wordriddle.MainActivity2
+activity#com.yasma.wordsriddles.MainActivity2
 ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:29:9-31:40
 	android:exported
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:30:13-42
-activity#com.yasma.wordriddle.Rules
+activity#com.yasma.wordsriddles.Rules
 ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:32:9-35:58
 	android:parentActivityName
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:35:13-55
@@ -200,7 +200,7 @@ ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:32:9-35:58
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:34:13-37
 	android:name
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:33:13-34
-activity#com.yasma.wordriddle.MainActivity
+activity#com.yasma.wordsriddles.MainActivity
 ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:36:9-44:20
 	android:exported
 		ADDED from P:\MY_APPS\WordRiddle\app\src\main\AndroidManifest.xml:38:13-36
@@ -723,7 +723,7 @@ ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
-permission#com.yasma.wordriddle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.yasma.wordsriddles.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
@@ -733,7 +733,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
-uses-permission#com.yasma.wordriddle.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.yasma.wordsriddles.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] C:\Users\Admin\.gradle\caches\transforms-3\bc38d90ee37a387560714583eb428e4b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94

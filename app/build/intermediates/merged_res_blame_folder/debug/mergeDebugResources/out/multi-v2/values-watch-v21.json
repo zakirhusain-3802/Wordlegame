@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.yasma.wordriddle.app-mergeDebugResources-43:/values-watch-v21/values-watch-v21.xml",
+            "outputFile": "com.yasma.wordsriddles.app-mergeDebugResources-43:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\2ec0cbd340a64392072c2a4e24d93c21\\transformed\\appcompat-1.7.0\\res\\values-watch-v21\\values-watch-v21.xml",

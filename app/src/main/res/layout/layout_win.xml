@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:padding="20dp"
+    app:cardBackgroundColor="@color/cardbg"
+    app:cardCornerRadius="10dp"
+    app:strokeWidth="0dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Congratulations!"
+            android:layout_marginHorizontal="10dp"
+            android:textSize="20sp"
+            android:shadowDx="-1"
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:shadowColor="@color/white"
+            android:textColor="@color/correct"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-condensed-light"
+            android:layout_marginBottom="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Correct Guess"
+            android:textSize="15sp"
+            android:textColor="@color/white"
+            android:visibility="gone"
+            android:layout_marginBottom="10dp"/>
+
+
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <!-- Shadow layer -->
+            <TextView
+                android:id="@+id/guessWord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="2dp"
+                android:text="sharp"
+                android:textAllCaps="true"
+                android:textColor="#80000000"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <!-- Main text layer -->
+            <TextView
+                android:id="@+id/guessWord1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:shadowColor="#FFFFFF"
+                android:shadowDx="-1"
+                android:shadowDy="-1"
+                android:shadowRadius="1"
+                android:text="sharp"
+                android:textAllCaps="true"
+                android:textColor="@color/partial"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+        </FrameLayout>
+
+
+
+        <TextView
+            android:id="@+id/playAgain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Play Again"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:shadowColor="@color/white"
+            android:layout_marginTop="10dp"
+            android:textStyle="normal"
+            android:visibility="visible" />
+        <TextView
+            android:id="@+id/goBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:shadowColor="@color/white"
+            android:text="Go Back"
+            android:padding="5dp"
+            android:textColor="@color/enter"
+            android:textSize="15sp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+            android:visibility="visible" />
+
+<!--        <LinearLayout-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center">-->
+
+<!--            <Button-->
+<!--                android:id="@+id/restart"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_margin="20dp"-->
+<!--                android:background="@drawable/tile_3d"-->
+<!--                android:text="YES"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textColor="@color/white" />-->
+
+<!--            <Button-->
+<!--                android:id="@+id/cancel"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_margin="20dp"-->
+<!--                android:background="@drawable/tile_3d_wrong"-->
+<!--                android:text="NO"-->
+<!--                android:textSize="20sp"-->
+<!--                android:textColor="@color/white" />-->
+<!--        </LinearLayout>-->
+
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

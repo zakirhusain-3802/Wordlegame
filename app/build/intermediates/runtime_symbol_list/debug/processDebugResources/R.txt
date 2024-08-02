@@ -1390,6 +1390,7 @@ int color button_material_dark 0x7f05002e
 int color button_material_light 0x7f05002f
 int color call_notification_answer_color 0x7f050030
 int color call_notification_decline_color 0x7f050031
+int color cardbg 0x7f050322
 int color cardview_dark_background 0x7f050032
 int color cardview_light_background 0x7f050033
 int color cardview_shadow_end_color 0x7f050034
@@ -3195,6 +3196,8 @@ int drawable start_bg 0x7f07011a
 int drawable test_level_drawable 0x7f07011b
 int drawable three_1 0x7f07011c
 int drawable tile 0x7f07011d
+int drawable tile_3d 0x7f07012d
+int drawable tile_3d_wrong 0x7f07012e
 int drawable tile_correct 0x7f07011e
 int drawable tile_guess 0x7f07011f
 int drawable tile_partial 0x7f070120
@@ -3322,6 +3325,7 @@ int id button5 0x7f08006e
 int id buttonPanel 0x7f08006f
 int id cache_measures 0x7f080070
 int id callMeasure 0x7f080071
+int id cancel 0x7f08025b
 int id cancel_button 0x7f080072
 int id carryVelocity 0x7f080073
 int id center 0x7f080074
@@ -3426,12 +3430,15 @@ int id gameKeyBoard 0x7f0800d6
 int id gameTile 0x7f0800d7
 int id ghost_view 0x7f0800d8
 int id ghost_view_holder 0x7f0800d9
+int id goBack 0x7f08025c
 int id gone 0x7f0800da
 int id graph 0x7f0800db
 int id graph_wrap 0x7f0800dc
 int id group_divider 0x7f0800dd
 int id grouping 0x7f0800de
 int id groups 0x7f0800df
+int id guessWord 0x7f08025d
+int id guessWord1 0x7f08025e
 int id header_title 0x7f0800e0
 int id hide_ime_id 0x7f0800e1
 int id hideable 0x7f0800e2
@@ -3614,6 +3621,7 @@ int id pathRelative 0x7f080192
 int id peekHeight 0x7f080193
 int id percent 0x7f080194
 int id pin 0x7f080195
+int id playAgain 0x7f08025f
 int id position 0x7f080196
 int id postLayout 0x7f080197
 int id pressed 0x7f080198
@@ -3950,6 +3958,7 @@ int layout design_text_input_end_icon 0x7f0b0031
 int layout design_text_input_start_icon 0x7f0b0032
 int layout ime_base_split_test_activity 0x7f0b0033
 int layout ime_secondary_split_test_activity 0x7f0b0034
+int layout layout_win 0x7f0b0076
 int layout m3_alert_dialog 0x7f0b0035
 int layout m3_alert_dialog_actions 0x7f0b0036
 int layout m3_alert_dialog_title 0x7f0b0037
@@ -4009,6 +4018,7 @@ int layout notification_template_icon_group 0x7f0b006c
 int layout notification_template_part_chronometer 0x7f0b006d
 int layout notification_template_part_time 0x7f0b006e
 int layout offline_ads_dialog 0x7f0b006f
+int layout restart_game 0x7f0b0075
 int layout rule 0x7f0b0070
 int layout select_dialog_item_material 0x7f0b0071
 int layout select_dialog_multichoice_material 0x7f0b0072
@@ -4214,6 +4224,7 @@ int string path_password_eye 0x7f0f00c1
 int string path_password_eye_mask_strike_through 0x7f0f00c2
 int string path_password_eye_mask_visible 0x7f0f00c3
 int string path_password_strike_through 0x7f0f00c4
+int string restart_game 0x7f0f00d4
 int string s1 0x7f0f00c5
 int string s2 0x7f0f00c6
 int string s3 0x7f0f00c7

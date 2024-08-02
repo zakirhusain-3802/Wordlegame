@@ -53,7 +53,11 @@ class WordleGame(private val context: Context) {
         return false
     }
 
-    private fun isWordValid(word: String): Boolean {
+    fun getGuessWord():String{
+        return  board[currentRow].joinToString("")
+    }
+
+    fun isWordValid(word: String): Boolean {
         if(word.length==5){
             if (finalist.contains(word.toLowerCase())){
                 return true
@@ -104,7 +108,7 @@ private fun checkWordAndUpdateColors():Boolean {
         when {
             currentWord[i] == targetWord[i] -> {
                 updateTileBackground(currentRow, i, R.drawable.tile_correct)
-                updateTileColorCorrect(i,R.drawable.title_guess_coorect,currentWord[i].toString())
+                updateTileColorCorrect(i, R.drawable.title_guess_coorect,currentWord[i].toString())
                 updateKeyTile(currentRow,i,currentWord[i].toString(),R.drawable.key_correct)
                 letterCounts[currentWord[i]] = letterCounts[currentWord[i]]!! - 1
             }

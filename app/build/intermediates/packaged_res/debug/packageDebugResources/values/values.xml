@@ -3,6 +3,7 @@
     <color name="background"> #374354</color>
     <color name="bg">#364354</color>
     <color name="black">#FF000000</color>
+    <color name="cardbg">#2f4865</color>
     <color name="correct">#6AAA64</color>
     <color name="enter">#F37B89</color>
     <color name="key">#80CCB5</color>
@@ -16,6 +17,7 @@
     <color name="wrong">#F37B89</color>
     <string name="app_name">Word Riddle</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restart_game">Restart Game ?</string>
     <style name="Theme.WordRiddle" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">#364354</item>

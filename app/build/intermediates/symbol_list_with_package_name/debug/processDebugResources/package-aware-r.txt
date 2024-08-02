@@ -1391,6 +1391,7 @@ color button_material_dark
 color button_material_light
 color call_notification_answer_color
 color call_notification_decline_color
+color cardbg
 color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
@@ -3196,6 +3197,8 @@ drawable start_bg
 drawable test_level_drawable
 drawable three_1
 drawable tile
+drawable tile_3d
+drawable tile_3d_wrong
 drawable tile_correct
 drawable tile_guess
 drawable tile_partial
@@ -3323,6 +3326,7 @@ id button5
 id buttonPanel
 id cache_measures
 id callMeasure
+id cancel
 id cancel_button
 id carryVelocity
 id center
@@ -3427,12 +3431,15 @@ id gameKeyBoard
 id gameTile
 id ghost_view
 id ghost_view_holder
+id goBack
 id gone
 id graph
 id graph_wrap
 id group_divider
 id grouping
 id groups
+id guessWord
+id guessWord1
 id header_title
 id hide_ime_id
 id hideable
@@ -3615,6 +3622,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id playAgain
 id position
 id postLayout
 id pressed
@@ -3951,6 +3959,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
+layout layout_win
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -4010,6 +4019,7 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout offline_ads_dialog
+layout restart_game
 layout rule
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
@@ -4215,6 +4225,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string restart_game
 string s1
 string s2
 string s3

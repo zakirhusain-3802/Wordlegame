@@ -1,9 +1,14 @@
 package com.yasma.wordsriddles
 
 import android.annotation.SuppressLint
+import android.app.Dialog
+import android.graphics.Color
+import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
+import android.view.Window
+import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
@@ -46,14 +51,24 @@ class Game : AppCompatActivity() {
     }
 
     private fun showRestartConfirmationDialog() {
-        AlertDialog.Builder(this)
-            .setTitle("Restart Game")
-            .setMessage("Are you sure you want to restart the game?")
-            .setPositiveButton("Yes") { _, _ ->
-                restartGame()
-            }
-            .setNegativeButton("No", null)
-            .show()
+        val dialog = Dialog(this)
+        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
+        dialog.setCancelable(false)
+        dialog.setContentView(R.layout.restart_game)
+        dialog.getWindow()?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT));
+        val btnPlayAgain = dialog.findViewById<Button>(R.id.restart)
+        val btnClose = dialog.findViewById<Button>(R.id.cancel)
+
+        btnPlayAgain.setOnClickListener {
+            dialog.dismiss()
+            restartGame()
+        }
+
+        btnClose.setOnClickListener {
+            dialog.dismiss()
+        }
+
+        dialog.show()
     }
 
     private fun restartGame() {
@@ -141,6 +156,10 @@ class Game : AppCompatActivity() {
     }
 
     private fun handleEnterKey() {
+
+        val guessWord=wordleGame.getGuessWord()
+        val isValid=wordleGame.isWordValid(guessWord)
+        if(isValid){
         if (attempts < maxAttempts) {
             val allCorrect = wordleGame.submitWord()
             attempts++
@@ -152,6 +171,15 @@ class Game : AppCompatActivity() {
                 showLoseDialog()
             }
         }
+        }else{
+
+            if(guessWord.length!=5){
+                Toast.makeText(this, "Please enter 5 letter word", Toast.LENGTH_SHORT).show()
+            }else{
+                Toast.makeText(this, "Not a valid word ", Toast.LENGTH_SHORT).show()
+            }
+
+        }
         // Handle enter key press
     }
 
@@ -160,14 +188,29 @@ class Game : AppCompatActivity() {
         // Handle delete key press
     }
     private fun showWinDialog() {
-        AlertDialog.Builder(this)
-            .setTitle("Congratulations!")
-            .setMessage("You've guessed the word correctly!")
-            .setPositiveButton("Play Again") { _, _ ->
-                restartGame()
-            }
-            .setNegativeButton("Close", null)
-            .show()
+
+        val dialog = Dialog(this)
+        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
+        dialog.setCancelable(false)
+        dialog.setContentView(R.layout.layout_win)
+        dialog.getWindow()?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT));
+        val textView=dialog.findViewById<TextView>(R.id.guessWord)
+        val textView1=dialog.findViewById<TextView>(R.id.guessWord1)
+        val btnPlayAgain = dialog.findViewById<TextView>(R.id.playAgain)
+        val btnClose = dialog.findViewById<TextView>(R.id.goBack)
+        val word=wordleGame.getTargetWord()
+        textView.text=word
+        textView1.text=word
+        btnPlayAgain.setOnClickListener {
+            dialog.dismiss()
+            restartGame()
+        }
+
+        btnClose.setOnClickListener {
+            dialog.dismiss()
+        }
+
+        dialog.show()
     }
 
     private fun showLoseDialog() {

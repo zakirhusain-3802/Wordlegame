@@ -15,5 +15,6 @@
     <color name="correct">#6AAA64</color>
     <color name="partial">#F9B033</color>
     <color name="wrong">#F37B89</color>
+    <color name="cardbg">#2f4865</color>
 
 </resources>

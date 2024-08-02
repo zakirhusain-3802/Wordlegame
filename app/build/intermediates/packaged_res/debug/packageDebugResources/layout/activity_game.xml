@@ -110,46 +110,46 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp">
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="30dp"
-            android:layout_above="@id/gameTile">
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginHorizontal="30dp"-->
+<!--            android:layout_above="@id/gameTile">-->
 
 
-            <ImageButton
-                android:id="@+id/rules"
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:background="@color/background"
-                android:src="@drawable/baseline_question_mark_24"/>
-            <View
-                android:layout_width="0dp"
-                android:layout_height="1dp"
-                android:layout_weight="1"/>
-            <ImageButton
-                android:id="@+id/restart"
-                android:layout_width="48dp"
-                android:layout_height="48dp"
-                android:background="@color/background"
-                android:src="@drawable/baseline_refresh_24"/>
+<!--            <ImageButton-->
+<!--                android:id="@+id/rules"-->
+<!--                android:layout_width="48dp"-->
+<!--                android:layout_height="48dp"-->
+<!--                android:background="@color/background"-->
+<!--                android:src="@drawable/baseline_question_mark_24"/>-->
 <!--            <View-->
 <!--                android:layout_width="0dp"-->
 <!--                android:layout_height="1dp"-->
 <!--                android:layout_weight="1"/>-->
-
 <!--            <ImageButton-->
+<!--                android:id="@+id/restart"-->
 <!--                android:layout_width="48dp"-->
 <!--                android:layout_height="48dp"-->
 <!--                android:background="@color/background"-->
-<!--                android:src="@drawable/verify"/>-->
+<!--                android:src="@drawable/baseline_refresh_24"/>-->
+<!--&lt;!&ndash;            <View&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="0dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="1dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_weight="1"/>&ndash;&gt;-->
 
-<!--            <ImageButton-->
-<!--                android:layout_width="48dp"-->
-<!--                android:layout_height="48dp"-->
-<!--                android:background="@color/background"-->
-<!--                android:src="@drawable/baseline_bar_chart_24"/>-->
-        </LinearLayout>
+<!--&lt;!&ndash;            <ImageButton&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="48dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="48dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:background="@color/background"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/verify"/>&ndash;&gt;-->
+
+<!--&lt;!&ndash;            <ImageButton&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_width="48dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:layout_height="48dp"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:background="@color/background"&ndash;&gt;-->
+<!--&lt;!&ndash;                android:src="@drawable/baseline_bar_chart_24"/>&ndash;&gt;-->
+<!--        </LinearLayout>-->
 
     <LinearLayout
         android:id="@+id/gameTile"
@@ -171,6 +171,7 @@
                 android:layout_height="55dp"
                 android:gravity="center"
                 android:padding="5dp"
+                android:elevation="10dp"
                 android:layout_marginHorizontal="5dp"
                 android:background="@drawable/tile"
                 android:text=""
@@ -560,6 +561,7 @@
                 android:layout_height="55dp"
                 android:gravity="center"
                 android:padding="5dp"
+
                 android:layout_marginHorizontal="5dp"
                 android:background="@drawable/tile"
                 android:text=""
@@ -574,6 +576,46 @@
 
 
     </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_above="@id/gameTile">
+
+
+            <ImageButton
+                android:id="@+id/rules"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@color/background"
+                android:src="@drawable/baseline_question_mark_24"/>
+            <View
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/restart"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:background="@color/background"
+                android:src="@drawable/baseline_refresh_24"/>
+            <!--            <View-->
+            <!--                android:layout_width="0dp"-->
+            <!--                android:layout_height="1dp"-->
+            <!--                android:layout_weight="1"/>-->
+
+            <!--            <ImageButton-->
+            <!--                android:layout_width="48dp"-->
+            <!--                android:layout_height="48dp"-->
+            <!--                android:background="@color/background"-->
+            <!--                android:src="@drawable/verify"/>-->
+
+            <!--            <ImageButton-->
+            <!--                android:layout_width="48dp"-->
+            <!--                android:layout_height="48dp"-->
+            <!--                android:background="@color/background"-->
+            <!--                android:src="@drawable/baseline_bar_chart_24"/>-->
+        </LinearLayout>
 
     <LinearLayout
         android:id="@+id/gameKeyBoard"

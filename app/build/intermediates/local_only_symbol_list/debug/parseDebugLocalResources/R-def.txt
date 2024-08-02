@@ -3,6 +3,7 @@ local
 color background
 color bg
 color black
+color cardbg
 color correct
 color enter
 color key
@@ -50,6 +51,8 @@ drawable st
 drawable start_bg
 drawable three_1
 drawable tile
+drawable tile_3d
+drawable tile_3d_wrong
 drawable tile_correct
 drawable tile_guess
 drawable tile_partial
@@ -67,8 +70,12 @@ id button2
 id button3
 id button4
 id button5
+id cancel
 id gameKeyBoard
 id gameTile
+id goBack
+id guessWord
+id guessWord1
 id imageView
 id imageView3
 id imageView4
@@ -104,6 +111,7 @@ id key_Y
 id key_Z
 id main
 id match_parent
+id playAgain
 id restart
 id rules
 id stats
@@ -154,12 +162,15 @@ layout activity_game
 layout activity_main
 layout activity_main2
 layout activity_rules
+layout layout_win
 layout nointernet
+layout restart_game
 layout rule
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string hello_blank_fragment
+string restart_game
 style Theme.WordRiddle
 style splashscreen
 xml backup_rules

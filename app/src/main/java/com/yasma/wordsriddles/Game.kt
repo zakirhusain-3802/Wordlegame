@@ -1,13 +1,17 @@
 package com.yasma.wordsriddles
 
+import FireworksView
 import android.annotation.SuppressLint
 import android.app.Dialog
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
+import android.os.Handler
+import android.os.Looper
 import android.view.View
 import android.view.ViewGroup
 import android.view.Window
+import android.view.WindowManager
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
@@ -25,7 +29,8 @@ class Game : AppCompatActivity() {
     private lateinit var wordleGame: WordleGame
     private var win:Boolean=false
     private var attempts: Int = 0
-    private var maxAttempts: Int = 7
+    private var maxAttempts: Int = 6
+    private val handler = Handler(Looper.getMainLooper())
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -196,11 +201,36 @@ class Game : AppCompatActivity() {
         dialog.getWindow()?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT));
         val textView=dialog.findViewById<TextView>(R.id.guessWord)
         val textView1=dialog.findViewById<TextView>(R.id.guessWord1)
-        val btnPlayAgain = dialog.findViewById<TextView>(R.id.playAgain)
-        val btnClose = dialog.findViewById<TextView>(R.id.goBack)
+        val btnPlayAgain = dialog.findViewById<Button>(R.id.playAgain)
+        val btnClose = dialog.findViewById<Button>(R.id.goBack)
         val word=wordleGame.getTargetWord()
         textView.text=word
         textView1.text=word
+        btnPlayAgain.setOnClickListener {
+
+            dialog.dismiss()
+            restartGame()
+        }
+
+        btnClose.setOnClickListener {
+            dialog.dismiss()
+
+        }
+
+        dialog.show()
+
+    }
+
+    private fun showLoseDialog() {
+        val dialog = Dialog(this)
+        dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
+        dialog.setCancelable(false)
+        dialog.setContentView(R.layout.layout_lose)
+        dialog.getWindow()?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT));
+        val btnPlayAgain = dialog.findViewById<Button>(R.id.Save)
+        val btnClose = dialog.findViewById<Button>(R.id.goBackLose)
+
+
         btnPlayAgain.setOnClickListener {
             dialog.dismiss()
             restartGame()
@@ -208,19 +238,9 @@ class Game : AppCompatActivity() {
 
         btnClose.setOnClickListener {
             dialog.dismiss()
-        }
 
+        }
         dialog.show()
     }
 
-    private fun showLoseDialog() {
-        AlertDialog.Builder(this)
-            .setTitle("Game Over")
-            .setMessage("You've run out of attempts. The correct word was: ${wordleGame.getTargetWord()}")
-            .setPositiveButton("Try Again") { _, _ ->
-                restartGame()
-            }
-            .setNegativeButton("Close", null)
-            .show()
-    }
 }

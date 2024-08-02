@@ -20,16 +20,20 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\key_wrong.xml"
     },
     {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondensedlight.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondensedlight.ttf"
+    },
+    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_title_guess_coorect.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\title_guess_coorect.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotolightitalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotolightitalic.ttf"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_video.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\video.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_key_correct.xml.flat",
@@ -40,28 +44,16 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_question_mark_24.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-mdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-mdpi\\ic_action_name.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotobold.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotobold.ttf"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_icns.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\icns.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondensedbolditalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondensedbolditalic.ttf"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_partial.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_partial.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_wordle_home.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\wordle_home.png"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_wordel_title2.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\wordel_title2.png"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-hdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-hdpi\\ic_action_name.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_activity_main.xml.flat",
@@ -88,10 +80,6 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_key_button.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\key_button.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
@@ -108,24 +96,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_verify.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\verify.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_wordle_title.png.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\wordle_title.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_graph__2_.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\graph__2_.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_3d_wrong.xml.flat",
@@ -136,18 +112,6 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_activity_game.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\activity_game.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_que.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\que.png"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_button2.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\button2.xml"
     },
@@ -156,28 +120,20 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\restart_game.xml"
     },
     {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotomediumitalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotomediumitalic.ttf"
+    },
+    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_icon1.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\icon1.png"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_delete.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\delete.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_question_mark.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\question_mark.xml"
     },
     {
-        "merged": "com.yasma.wordsriddles.app-debug-45:/layout_layout_win.xml.flat",
-        "source": "com.yasma.wordsriddles.app-main-47:/layout/layout_win.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotothin.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotothin.ttf"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-xxxhdpi_ic_action_name.png.flat",
@@ -188,8 +144,8 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_guess.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_bulb__1_.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\bulb__1_.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotolight.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotolight.ttf"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\xml_data_extraction_rules.xml.flat",
@@ -204,12 +160,12 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_refresh_24.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-xxhdpi\\ic_action_name.png"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_layout_lose.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\layout_lose.xml"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_correct.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_correct.xml"
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-xxhdpi\\ic_action_name.png"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_four_1.png.flat",
@@ -218,14 +174,6 @@
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_baseline_bar_chart_24.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_bar_chart_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_baseline_arrow_back_24.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_arrow_back_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_3d.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_3d.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -240,14 +188,6 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\play1.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_three_1.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\three_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_key_partial.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\key_partial.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_baseline_keyboard_backspace_24.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_keyboard_backspace_24.xml"
     },
@@ -260,40 +200,184 @@
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_nointernet.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\nointernet.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_rule.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\rule.xml"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_play.png.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\play.png"
-    },
-    {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_splashscreen.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\splashscreen.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_enter_key.xml.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\enter_key.xml"
     },
     {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_splashscreen.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotoblack.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotoblack.ttf"
+    },
+    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_title.png.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\title.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_btn.xml.flat",
-        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\btn.xml"
-    },
-    {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-xhdpi_ic_action_name.png.flat",
         "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotobolditalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotobolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_title_guess_coorect.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\title_guess_coorect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.yasma.wordsriddles.app-debug-45:/drawable_tile_3d_wrong.xml.flat",
+        "source": "com.yasma.wordsriddles.app-main-47:/drawable/tile_3d_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_icns.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\icns.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_wordle_home.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\wordle_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_wordel_title2.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\wordel_title2.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_key_button.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\key_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_verify.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_que.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\que.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondenseditalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondenseditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_icon1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotothintalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotothintalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotoregular.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotoregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_bulb__1_.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\bulb__1_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondensedbold.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondensedbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondensedregular.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondensedregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotomedium.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotomedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_correct.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_correct.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotoitalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotoitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_tile_3d.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\tile_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_key_partial.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\key_partial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_three_1.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\three_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotocondensedlightitalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotocondensedlightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\font_robotoblackitalic.ttf.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\font\\robotoblackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\layout_nointernet.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\layout\\nointernet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_play.png.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\play.png"
+    },
+    {
+        "merged": "com.yasma.wordsriddles.app-debug-45:/drawable_tile_3d.xml.flat",
+        "source": "com.yasma.wordsriddles.app-main-47:/drawable/tile_3d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-main-47:\\drawable\\btn.xml"
     },
     {
         "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.4\\com.yasma.wordsriddles.app-debug-45:\\drawable_btn3.xml.flat",
